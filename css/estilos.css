@@ -1,0 +1,40 @@
+#titulo
+{
+    font-family: Arial;
+}
+
+#puzzle
+{
+    margin: 0 auto;
+    background: rgba(14, 14, 14, 0.68);
+    border: 3px solid white;
+    box-shadow: 1px 1px 100px rgba(0, 0, 0, 0.9);
+}
+
+.niveles
+{
+    height: auto;
+    margin: 0 auto;
+}
+
+#botones
+{
+    padding: 30px;
+    text-align: center;
+}
+
+.btn 
+{
+	width: 100px;
+	height: 40px;
+	background-color: black;
+	color: white;
+	border-radius: 5px;
+}
+
+.btn:hover {
+	background: rgba(0,0,0,0);
+	 color: #3a7999;
+	 box-shadow: inset 0 0 0 3px #3a7999;	
+}
+
